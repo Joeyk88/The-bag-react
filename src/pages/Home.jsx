@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import ProductCard from "../components/ProductCard";
-import "./Home.css";
+import "./Homestyle.css";
 
 const Home = () => {
   const [favorites, setFavorites] = useState([]);
